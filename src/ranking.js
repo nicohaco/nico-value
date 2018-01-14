@@ -26,7 +26,7 @@ const period = [
 const target = [
   {
     title: '総合',
-    key: 'total'
+    key: 'fav'
   },
   {
     title: '再生',
